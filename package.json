@@ -1,0 +1,16 @@
+{
+  "name": "Ziplines",
+  "version": "0.0.1",
+  "description": "FreeCodeCamp challenge",
+  "main": "gulpfile.js",
+  "author": "impluvium",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.1.0"
+  }
+}
